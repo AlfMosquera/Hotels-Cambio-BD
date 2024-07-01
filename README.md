@@ -1,4 +1,4 @@
-![image](https://github.com/AlfMosquera/Hotels-Cambio-BD/assets/170210714/4ff15edf-0b62-442d-8323-1dd3766c5575)# Hotels-Cambio-BD
+# Hotels-Cambio-BD
 Cambio De Base De Datos 
 Cambios realizados en el "aplicattion.propierties"
 antes:
